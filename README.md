@@ -9,10 +9,8 @@ Simple web scraper application designed to fetch your streamers content from twi
 - Works on Linux, Windows, macOS, BSD
 
 ## Install
-Quick installation
-```
-pip install selenium
-```
+- install chromedriver https://chromedriver.chromium.org/downloads
+- ``` pip install selenium ```
 or visit: https://selenium-python.readthedocs.io/installation.html for more information
 
 ## Use
