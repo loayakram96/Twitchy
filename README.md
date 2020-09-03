@@ -19,3 +19,7 @@ or visit: https://selenium-python.readthedocs.io/installation.html for more info
 - List names in `streamers.txt` each one in separated line
 - Run 
 - Each streamer has their own file contains related data
+
+## Example
+
+- Check: https://drive.google.com/file/d/1lLJpI23C56bKniCq1S91TSktywsRmiPr/view?usp=sharing
