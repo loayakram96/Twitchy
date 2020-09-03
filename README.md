@@ -1,7 +1,8 @@
 # Twitchy
 
 ## Overview
-Simple web scraper application using selenium designed to fetch your streamers content from twitch and print their data in separated files.
+Simple web scraper application using selenium designed to fetch your streamers' content from twitch and print their data in separate files.
+
 
 ## Requirements
 
